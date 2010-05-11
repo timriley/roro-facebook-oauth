@@ -199,4 +199,4 @@
 
 * graph.facebook.com
 * github/mbleigh/oauth2
-* github.com/timriley/roro-oauth-talk
+* github.com/timriley/roro-facebook-oauth
