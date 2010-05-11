@@ -1,0 +1,40 @@
+body {
+  font-family: Otari, Helvetica, Arial, sans-serif;
+}
+
+h1 {
+  font-weight: bold;
+}
+
+.slide {
+  background: #fff url('/image/talk/icelab-logo.png') no-repeat bottom right;
+}
+
+.nologo {
+  background: #fff;
+}
+
+.bullets ul li {
+  text-align: left;
+}
+
+.smbullets ul li {
+  text-align: left;
+}
+
+.command h1 {
+  font-weight: normal;
+}
+
+.centerbullets ul li {
+  text-align: center;
+}
+
+#footer {
+  background: #fff;
+  color: #ccc;
+}
+
+pre.sh_sourceCode {
+  background-color: transparent;
+}
