@@ -198,5 +198,5 @@
 # Thanks!
 
 * graph.facebook.com
-* github/mbleigh/oauth2
+* github/intridea/oauth2
 * github.com/timriley/roro-facebook-oauth
